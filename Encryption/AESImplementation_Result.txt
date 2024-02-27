@@ -1,0 +1,19 @@
+Enter (e) letter for encrpyt or (d) letter for decrypt :
+E
+Choose a plaintext block (128-Bit Integer in base 16):
+100000000
+Choose a Key (128-Bit Integer in base 16):
+10000000000000000
+The encrypted message is: 
+42802269f4a96b89079165a6a979aa5c
+
+---------------------------
+
+Enter (e) letter for encrpyt or (d) letter for decrypt :
+D
+Enter your ciphertext block (128-Bit Integer in base 16):
+42802269f4a96b89079165a6a979aa5c
+Choose a Key (128-Bit Integer in base 16):
+10000000000000000
+The deciphered message is:
+100000000

@@ -1,0 +1,29 @@
+Enter the 64-bit plain text in hexadecimal: 
+8787878787878787
+Enter the first 64-bit key in hexadecimal: 
+0E329232EA6D0D73
+Enter the second 64-bit key in hexadecimal: 
+0E329232EA6D0D78
+Plain Text: 8787878787878787
+Key 1: 0E329232EA6D0D73
+Key 2: 0E329232EA6D0D78
+Intermediate Text: AAAAAAAAAAA=
+Cipher Text: DYsoINyqE0k=
+Decrypted Intermediate Text: AAAAAAAAAAA=
+Decrypted Plain Text: h4eHh4eHh4c=
+
+------------------------
+
+Enter the 64-bit plain text in hexadecimal: 
+0123456789ABCDEF
+Enter the first 64-bit key in hexadecimal: 
+0123456789ABCDEF
+Enter the second 64-bit key in hexadecimal: 
+FEDCBA9876543210
+Plain Text: 0123456789ABCDEF
+Key 1: 0123456789ABCDEF
+Key 2: FEDCBA9876543210
+Intermediate Text: VswJ58/cTO8=
+Cipher Text: RZpgM+vOEqE=
+Decrypted Intermediate Text: VswJ58/cTO8=
+Decrypted Plain Text: ASNFZ4mrze8=
